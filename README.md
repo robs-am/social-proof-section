@@ -33,9 +33,9 @@ Users should be able to:
 
 - View the optimal layout for the section depending on their device's screen size
 
-###Rresponsiveness
+###Responsiveness
 
-![](./social-proof_gif%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gifsocial-proof_gif ‐ Feito com o Clipchamp)
+![social-proof_gif ‐ Feito com o Clipchamp](https://user-images.githubusercontent.com/102549776/163729208-c5e7907d-4ca4-47b8-ac26-cd5e515eeb18.gif)
 
 
 
