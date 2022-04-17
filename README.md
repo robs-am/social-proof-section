@@ -1,4 +1,4 @@
-# Frontend Mentor - Social proof section
+<h1 align="center"> Frontend Mentor - Social proof section</h2>
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
@@ -7,7 +7,7 @@
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-# Frontend Mentor - Social proof section solution
+### Frontend Mentor - Social proof section solution
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
