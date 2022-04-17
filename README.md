@@ -33,18 +33,18 @@ Users should be able to:
 
 - View the optimal layout for the section depending on their device's screen size
 
-### Screenshot
+###Rresponsiveness
 
-![](./screenshot.jpg)
+![](./social-proof_gif%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gifsocial-proof_gif ‐ Feito com o Clipchamp)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+
 - Live Site URL: [Add live site URL here](https://robs-am.github.io/social-proof-section/)
 
-## My process
+
 
 ### Built with
 
@@ -58,31 +58,14 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+In this project I was able to apply the Mobile-first workflow. Also, I was capable to use both Flexbox and CSS grid designs in the mobile and desktop designs respectively.
 
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Roberta Amaro](https://github.com/robs-am)
+
 
 
 
