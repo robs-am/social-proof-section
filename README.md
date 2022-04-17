@@ -33,7 +33,17 @@ Users should be able to:
 
 - View the optimal layout for the section depending on their device's screen size
 
-###Responsiveness
+
+### Mobile and Desktop
+
+![mobile_screen](https://user-images.githubusercontent.com/102549776/163729475-66ff6683-cf1a-43d0-8ac4-17c09a7081ff.gif)
+
+
+
+![screenshot_1440](https://user-images.githubusercontent.com/102549776/163729516-a9c9d28e-41c4-4bf0-9958-0c784e4d4003.png)
+
+
+### Responsiveness
 
 ![social-proof_gif ‐ Feito com o Clipchamp](https://user-images.githubusercontent.com/102549776/163729208-c5e7907d-4ca4-47b8-ac26-cd5e515eeb18.gif)
 
